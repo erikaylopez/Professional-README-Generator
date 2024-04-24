@@ -5,30 +5,37 @@
 # Professional-README-Generator
 
 # Description
-A high-quality README file utilizing Node.js
+The purpose of this README generator is to provide a high quality sample of what a README file should entail so that the intended audience can benefit from reading and learning from the content provided. This README file was created utilizing Node.js.
 
 # Table of Contents
-- Installations
-- Usage
-- Contributing
-- Tests
-- Questions
-- License
+- [Installations](#installations)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 # Installation
+To install the project dependencies, fork or clone the repository [Professional-README-Generator](https://github.com/erikaylopez/Professional-README-Generator). Open the terminal and navigate to the root directory of the project. 
+
+
 
 # Usage
+
 
 # License
 Copyright @ MIT. All rights reserved.
 
 Licensed under the MIT license.
 
+
 # Contributing
 Developer: Erika Lopez
 
+
 # Tests
 npm test
+
 
 # Questions
 For additional questions or concerns regarding the README file, contact:
