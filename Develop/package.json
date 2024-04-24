@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/erikaylopez/Professional-README-Generator"
+},
+"bugs": {
+  "url": "https://github.com/erikaylopez/Professional-README-Generator/issues"
+},
+"homepage": "https:https://github.com/erikaylopez/Professional-README-Generator#readme"
 }
