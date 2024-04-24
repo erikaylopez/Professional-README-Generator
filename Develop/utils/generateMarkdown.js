@@ -27,7 +27,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "None") {
     return (
-      `## License &copy;
+      `## License
       
       Copyright @ ${license}. All rights reserved.
       
