@@ -8,7 +8,7 @@ const path = require("path");
 
 //links questions to README file
 const generateMarkdown = require('./generateMarkdown.js');
-const { default: Choices } = require("inquirer/lib/objects/choices.js");
+//const { default: Choices } = require("inquirer/lib/objects/choices.js");
 
 //  array of questions for user input
 const questions = [
@@ -84,9 +84,9 @@ function writeToFile(fileName, data) {
 // function to initialize app
 function init() {
     inquirer.prompt(questions)
-        .then(() => {
+        .then((data) => {
             console.log("data");
-            fs.writeFile('GeneratedREADME/GeneratedREADME.md', generateMarkdown(data),(err) => err? console.error(err) : console.log("Success!"))})
+            writeToFile('GeneratedREADME.md', generateMarkdown(data))});
         }
 
 // function call to initialize app
