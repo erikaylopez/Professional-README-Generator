@@ -7,7 +7,7 @@ const fs = require("fs");
 const path = require("path");
 
 //links questions to README file
-const generateMarkdown = require('./utils/generateMarkdown.js');
+const generateMarkdown = require('./generateMarkdown.js');
 const { default: Choices } = require("inquirer/lib/objects/choices.js");
 
 //  array of questions for user input
