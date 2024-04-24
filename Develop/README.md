@@ -2,7 +2,7 @@
 # Professional-README-Generator
 
 # Description 📝
-The purpose of this README generator is to provide a high quality sample of what a README file should entail so that the intended audience can benefit from reading and learning from the content provided. This README file was created utilizing Node.js.
+The purpose of this README generator is to provide a high quality sample of what a README file should entail so that the intended audience can benefit from reading and learning from the content provided. This README file was created utilizing Node.js for a command line application.
 
 # Table of Contents 📚
 - [Installation](#installation-📎)
@@ -37,9 +37,8 @@ npm test
 For additional questions or concerns regarding the README file, contact:
 - Github: [erikaylopez](https://github.com/erikaylopez)
 - Email: eylopez8686@gmail.com
-- Phone Number: 915-929-2209
+- Phone: 915-929-2209
 
 # License &copy;
-Copyright @ MIT. All rights reserved.
-
 Licensed under the MIT license.
+Copyright @ MIT. All rights reserved.
