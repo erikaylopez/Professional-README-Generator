@@ -53,3 +53,7 @@ For additional questions or concerns regarding the README file, contact:
 # License &copy;
 Licensed under the MIT license.
 Copyright @ MIT. All rights reserved.
+
+# Screenshot
+
+![Screenshot](./Develop/Assets/erikaylopez_Professional-README-Generator_tab=readme-ov-file.png)
