@@ -5,15 +5,15 @@
 x
 
 ## Table of Contents
-  * [Installation](#installation)
+  * [Installation](#installation-📎)
 
-  * [Usage](#usage)
+  * [Usage](#usage-💻)
 
-  * [Contributing](#contributing)
+  * [Contributing](#contributing-✍)
 
-  * [Tests](#tests)
+  * [Tests](#tests-🧪)
 
-  * [Questions](#questions)
+  * [Questions](#questions-📨)
 
 ## Installation
 x
